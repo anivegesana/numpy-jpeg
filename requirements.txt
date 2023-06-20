@@ -1,0 +1,7 @@
+numpy
+scipy
+bitarray
+
+# Not required for encoder. Required for analysis
+matplotlib
+Pillow
